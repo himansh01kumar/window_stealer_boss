@@ -412,4 +412,4 @@ def main():
             shutil.rmtree(OUTPUT_DIR, ignore_errors=True)
 
 if __name__ == "__main__":
-    main()
+    main() 
