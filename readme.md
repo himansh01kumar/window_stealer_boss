@@ -1,4 +1,4 @@
-# Forensic Data Extraction Tool
+# window_stealer_boss
 
 ## Overview
 This tool is designed for forensic analysis of system and browser data. It extracts relevant forensic artifacts such as browser credentials, system information, WiFi passwords, and remote desktop connections for investigative purposes.
